@@ -111,13 +111,7 @@
 	    </snapshotRepository>
 	</distributionManagement> -->
 	
-	<build>  <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-war-plugin</artifactId>
-            <version>3.2.3</version> <!-- Specify the version you want to use -->
-            <configuration>
-                <!-- Configuration options for the war plugin -->
-            </configuration>
+	<build>  
         </plugin>
 		
 		<plugins>
